@@ -1,5 +1,4 @@
 # open_ctfs
-Open CTFs 
 
 [CTF-Escape The Hack]
 17th Edition Security Besides SP
